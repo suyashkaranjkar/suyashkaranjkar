@@ -1,4 +1,4 @@
-# Hi, I'm Suyash!
+# Hi, I'm Suyash Karanjkar!
 
 I'm a BCA student at Brijlal Biyani Science College (Class of 2026), passionate about learning to build software and explore real-world tech problems.
 
