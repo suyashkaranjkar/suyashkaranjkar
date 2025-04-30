@@ -18,5 +18,6 @@ I'm a BCA student at Brijlal Biyani Science College (Class of 2026), passionate 
 - Land an internship or junior dev opportunity
 
 ## 📫 Let's Connect
-- LinkedIn: https://linkedin.com/in/suyash-karanjkar
+- LinkedIn: https://linkedin.com/in/suyash-karanjkar  
+- GitHub: https://github.com/suyashkaranjkar  
 - Email: suyashkaranjkar123@gmail.com
